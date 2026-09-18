@@ -1,6 +1,12 @@
-# 📊 同花顺 SkillHub Tools
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+    <img src="./assets/hero-dark.svg" width="100%" alt="iwencai-skillhub-tools">
+  </picture>
+</p>
 
-同花顺 Aime SkillHub 工具集，提供技能批量安装和管理功能。
+<p align="center"><sub>同花顺 Aime SkillHub 工具集 · 技能批量安装 · 金融研究工作流</sub></p>
 
 ## 功能特性
 
