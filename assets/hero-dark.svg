@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="iwencai-skillhub-tools">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090d12"/><stop offset=".6" stop-color="#0d1117"/><stop offset="1" stop-color="#111923"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#56d4c8"/><stop offset="1" stop-color="#7ee787"/></linearGradient></defs>
+  <rect x="1" y="1" width="1278" height="358" rx="28" fill="url(#bg)" stroke="#2d3744"/>
+  <circle cx="1090" cy="40" r="180" fill="#56d4c8" opacity=".035"/><circle cx="1030" cy="330" r="180" fill="#7ee787" opacity=".03"/>
+  <text x="66" y="76" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">EONCYRUS / PROJECT</text>
+  <text x="66" y="154" fill="#f0f6fc" font-family="Inter,system-ui,sans-serif" font-size="52" font-weight="760">iwencai-skillhub-tools</text>
+  <text x="68" y="202" fill="#f0f6fc" opacity=".82" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="22">Finance research, turned into tools.</text>
+  <text x="68" y="236" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15">Skills · screening · research workflows · automation</text>
+  <rect x="68" y="266" width="510" height="2" fill="url(#a)" opacity=".75"/>
+  <text x="68" y="310" fill="#56d4c8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">build · research · automate · repeat</text>
+  <g transform="translate(692,88)" stroke-width="2">
+    <circle cx="80" cy="65" r="28" fill="#111820" stroke="#56d4c8"/><circle cx="15" cy="20" r="18" fill="#111820" stroke="#7ee787"/><circle cx="160" cy="14" r="18" fill="#111820" stroke="#7ee787"/><circle cx="180" cy="132" r="18" fill="#111820" stroke="#7ee787"/><circle cx="18" cy="140" r="18" fill="#111820" stroke="#7ee787"/>
+    <path d="M31 31l29 21M144 29l-42 24M159 121l-54-38M34 129l35-41" stroke="#2d3744"/>
+    <text x="80" y="71" text-anchor="middle" fill="#56d4c8" font-family="ui-monospace,monospace" font-size="18">AI</text><text x="15" y="25" text-anchor="middle" fill="#7ee787" font-family="ui-monospace,monospace" font-size="12">Q</text><text x="160" y="19" text-anchor="middle" fill="#7ee787" font-family="ui-monospace,monospace" font-size="12">S</text><text x="180" y="137" text-anchor="middle" fill="#7ee787" font-family="ui-monospace,monospace" font-size="12">R</text><text x="18" y="145" text-anchor="middle" fill="#7ee787" font-family="ui-monospace,monospace" font-size="12">D</text>
+  </g>
+  <g transform="translate(930,52)">
+    <rect x="0" y="0" width="285" height="250" rx="38" fill="#101820" stroke="#2d3744"/>
+    <path d="M58 182c-18-54 4-110 50-137 49-29 114-18 148 29 28 39 25 97-7 133-37 41-102 50-151 21-18-11-32-27-40-46z" fill="#eef2f7"/>
+    <ellipse cx="147" cy="135" rx="68" ry="61" fill="#f3dfdd"/>
+    <path d="M83 120c15-44 45-67 83-64 35 3 63 22 77 55-28-17-61-21-93-13-26 6-45 18-67 40z" fill="#eef2f7"/>
+    <path d="M91 77l-17-15 2 25m136-13 20-14-5 27" fill="#090d12" stroke="#56d4c8" stroke-width="2"/>
+    <path d="M105 134l13-9 13 9M166 134l13-9 13 9" fill="none" stroke="#202831" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="101" cy="155" rx="16" ry="7" fill="#e7a2aa" opacity=".45"/><ellipse cx="196" cy="155" rx="16" ry="7" fill="#e7a2aa" opacity=".45"/>
+    <path d="M124 153q23 31 47 0c-2 30-11 44-24 44-14 0-21-15-23-44z" fill="#8d5562" stroke="#5a3b42" stroke-width="2"/>
+    <path d="M80 200q67 31 136 0l23 50H57z" fill="#090d12"/>
+    <path d="M138 67q-2-20 14-28-3 13 10 19" fill="none" stroke="#eef2f7" stroke-width="7" stroke-linecap="round"/>
+    <g transform="translate(92,74)"><path d="M0 10L6 0l8 7 9-7 7 11v15H0z" fill="#090d12" stroke="#56d4c8" stroke-width="2"/><circle cx="9" cy="17" r="1.6" fill="#56d4c8"/><circle cx="21" cy="17" r="1.6" fill="#56d4c8"/></g>
+  </g>
+  </svg>
