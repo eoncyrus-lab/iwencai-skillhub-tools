@@ -32,8 +32,8 @@ curl -fsSL https://www.iwencai.com/skillhub/static/0.0.3/download_and_install.sh
 ### 2. 克隆项目
 
 ```bash
-git clone https://github.com/Ricaardo/skillhub-tools.git
-cd skillhub-tools
+git clone https://github.com/eoncyrus-lab/iwencai-skillhub-tools.git
+cd iwencai-skillhub-tools
 chmod +x install_skills.sh
 ```
 
